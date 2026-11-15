@@ -2,6 +2,8 @@
 
 Project Title & Description...   _The name of the project paired with a brief summary explaining its purpose, key features, and the problem it solves_
 
+Framing/Problem - The State of Maryland has passed legislation to allow ADU/DADU builds in all counties.  How can property owners and investors best use this new legislation to grow their real estate portfolios and also, more importantly add housing units in desirable areas to help provide low cost housing units, as most ADU/DADUs are 1 to 2 bed room units.  
+
 I will use this application to share my passion for ADU and advocate for ADU and DADU property enhancements.  
 
 I can highlight neighborhoods that possess key charistics for ADU builds. 
@@ -18,4 +20,6 @@ How to get started - _Google Play or AppStore_, desktop website etc
 
 Data Sources - RentCast, RealEstateAPI, and ATTOM Data, GOOGLE Earth
 
+PG CO Dept of Planning GIS Data - https://www.pgplanning.org/data-tools/maps/?utm_source=chatgpt.com
+MOCO Co Dept of Planning GIS Data - 
 Development Environment - 
