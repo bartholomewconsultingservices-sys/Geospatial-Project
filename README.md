@@ -23,3 +23,17 @@ Data Sources - RentCast, RealEstateAPI, and ATTOM Data, GOOGLE Earth
 PG CO Dept of Planning GIS Data - https://www.pgplanning.org/data-tools/maps/?utm_source=chatgpt.com
 MOCO Co Dept of Planning GIS Data - 
 Development Environment - 
+
+
+Build Notes
+GIS AI Development Environment 
+
+Anaconda/Jupiter Notebook/  
+
+Using the power of large language models LLMs ( Natural Language ) with the use of ChatGPT 3.5 
+
+Need an Open AI API Key... 
+
+Give me a 20 meter buffer around all speed cameras in the DMV, DC and Maryland is a good example of version 1/2
+
+Intelligent Caching keeps cost down on repeated data queries. key when running at scale or production.  
