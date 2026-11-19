@@ -1,4 +1,4 @@
-# D.C. Beltway ADU Explorer — Property Screening and Housing Opportunity Analysis
+# D.C. Beltway ADU Explorer — Site Selections and Market Analysis
 
 Project Title & Description...   _The name of the project paired with a brief summary explaining its purpose, key features, and the problem it solves_
 
